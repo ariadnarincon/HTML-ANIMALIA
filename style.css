@@ -1,0 +1,150 @@
+/*
+selector{
+propiedad:valor;
+propiedad:valor;
+propiedad:valor;
+}
+*/
+
+body{
+    /* Color de fondo */
+    background-color: rgb(111, 214, 210);
+    /* Cambio de tipograf+ia- Fuente de letra */
+    font-family: 'Roboto Mono', monospace;
+}
+.encabezado1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    box-shadow: 0 0 15px #20212447;
+}
+.logo1{
+    /* Cambiar tamaño de imágenes */
+       /*anchura */
+       width: 90px;
+       /* altura */
+       height: 90px;
+   }
+
+img{
+    /* Cambiar tamaño de imágenes */
+    /*anchura */
+    width: 530px;
+    /* altura */
+    height: 500px;
+    
+}
+
+p{
+    /* Color de texto */
+    color: black;
+}
+
+
+.titulo{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 90px;
+    letter-spacing: 25px;
+    text-align: center;
+    text-decoration:overline;
+}
+.menu{
+    /* Div flexible para moverse con los elementos dentro de sí */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+}
+.flores{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    background-color:aqua;
+    text-align: center;
+    letter-spacing: 25px;
+    text-decoration: underline;  
+    
+}
+.listaflores{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.flores1 img{
+      /* Cambiar tamaño de imágenes */
+    /*anchura */
+    width: 230px;
+    /* altura */
+    height: 200px;;
+}
+.i-descripcion{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    background-color:aqua;
+    text-align: center;
+    letter-spacing: 25px;
+    text-decoration: underline;
+    
+}
+.i-colibrie{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 25px;
+}
+.p-descripcion{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.i-vivienda{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    background-color:aqua;
+    text-align: center;
+    letter-spacing: 25px;
+    text-decoration: underline;
+}
+.p-vivienda{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+
+.i-donde{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 25px;
+}
+.i-datos{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    background-color:aqua;
+    text-align: center;
+    letter-spacing: 25px;
+    text-decoration: underline;
+    
+}
+.picaflores{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.i-elporque{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 25px;
+}
+
+.p-datos{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.bibliografia{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    background-color:aqua;
+    text-align: center;
+    letter-spacing: 20px;
+    text-decoration: underline;
+}
+.biblio1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
